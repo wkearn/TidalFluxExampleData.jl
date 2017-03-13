@@ -20,7 +20,7 @@
             "elevation": -1.588,
             "cellSize": 0.1999389,
             "nCells": 40
-        },
+        }
     ],
     "cross-section": {
         "lmax": 13.944,
