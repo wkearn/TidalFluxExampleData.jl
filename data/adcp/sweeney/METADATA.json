@@ -1,0 +1,37 @@
+{
+    "calibrations": [
+        {
+            "startDate": "2016-09-22T07:10:00",
+            "id": "acfb2947d11e0177",
+            "endDate": "2016-09-22T16:20:00",
+            "deployment": "785d4936778f203f"
+        }
+    ],
+    "site-name": "sweeney",
+    "deployments": [
+        {
+            "deltaT": 600.0,
+            "hasAnalog": false,
+            "serialNumber": "AQD 5062",
+            "blankingDistance": 0.1113778,
+            "startDate": "2015-07-08T12:00:00",
+            "id": "9075efca49bb29bb",
+            "endDate": "2015-08-19T10:00:00",
+            "elevation": -1.588,
+            "cellSize": 0.1999389,
+            "nCells": 40
+        },
+    ],
+    "cross-section": {
+        "lmax": 13.944,
+        "Amax": 20.674,
+        "hmax": 0.35,
+        "file": "cross-section.csv",
+        "epsg": 26986
+    },
+    "gps": {
+        "east": 253484.983,
+        "epsg": 26986,
+        "north": 941562.086
+    }
+}
