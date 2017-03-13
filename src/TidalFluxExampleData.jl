@@ -1,5 +1,5 @@
 module TidalFluxExampleData
 
-# package code goes here
+using TidalDischargeModels
 
 end # module
