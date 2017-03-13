@@ -20,6 +20,18 @@
             "elevation": -1.588,
             "cellSize": 0.1999389,
             "nCells": 40
+        },
+        {
+            "deltaT": 600.0,
+            "hasAnalog": false,
+            "serialNumber": "AQD 5062",
+            "blankingDistance": 0.1113778,
+            "startDate": "2015-08-21T12:00:00",
+            "id": "6ddb46623bd6c559",
+            "endDate": "2015-09-22T11:20:00",
+            "elevation": -1.588,
+            "cellSize": 0.1999389,
+            "nCells": 40
         }
     ],
     "cross-section": {
