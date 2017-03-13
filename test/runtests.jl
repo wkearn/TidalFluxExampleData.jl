@@ -36,4 +36,4 @@ cs = parse_cs(creek)
 
 csd = load_data(cs)
 
-Q = DischargeData(adata[1],csd)
+Q = Discharge(adata[1],csd)
