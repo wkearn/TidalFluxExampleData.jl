@@ -6,10 +6,6 @@ n = 6037 # Length of the first Sweeney data
 creek = Creek{:sweeney}()
 deps = parse_deps(creek)
 
-# Figure out how platform independent this is
-@test hash(deps[1]) == 0x9075efca49bb29bb
-@test hash(deps[2]) == 0x6ddb46623bd6c559
-
 @test length(deps) == 2
 @test deps[1].location == creek
 @test deps[1].startDate == DateTime(2015,07,08,12,00,00)
