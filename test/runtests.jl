@@ -1,4 +1,4 @@
-using TidalDischargeModels, TidalFluxExampleData
+using DischargeData, PIEMetData, ADCPDataProcessing, TidalFluxExampleData
 using Base.Test
 
 n = 6037 # Length of the first Sweeney data
