@@ -32,6 +32,30 @@
             "elevation": -1.588,
             "cellSize": 0.1999389,
             "nCells": 40
+        },
+        {
+            "deltaT": 600,
+            "hasAnalog": true,
+            "serialNumber": "AQD 5062",
+            "blankingDistance": 0.1113778,
+            "startDate": "2016-07-08T12:00:00",
+            "id": "8e294f08f3308c5b",
+            "endDate": "2016-07-22T18:50:00",
+            "elevation": -1.588,
+            "cellSize": 0.1999389,
+            "nCells": 40
+        },
+        {
+            "deltaT": 600,
+            "hasAnalog": true,
+            "serialNumber": "AQD 6797",
+            "blankingDistance": 0.1113778,
+            "startDate": "2016-09-05T11:00:00",
+            "id": "785d4936778f203f",
+            "endDate": "2016-09-24T10:40:00",
+            "elevation": -1.588,
+            "cellSize": 0.1999389,
+            "nCells": 40
         }
     ],
     "cross-section": {
