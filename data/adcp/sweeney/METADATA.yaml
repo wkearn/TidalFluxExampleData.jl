@@ -11,7 +11,7 @@ cross-section:
   lmax: 13.944
   hmax: 0.350
 deployments:
-  - id: a9d49aa8d9a60d01
+  - id: 9075efca49bb29bb
     startDate: 2015-07-08T12:00:00
     endDate: 2015-08-19T10:00:00
     serialNumber: AQD 5062
@@ -21,7 +21,7 @@ deployments:
     nCells: 40
     deltaT: 600.0
     elevation: -1.588
-  - id: 2b5132d2e4cd6118
+  - id: 6ddb46623bd6c559
     startDate: 2015-08-21T12:00:00
     endDate: 2015-09-22T11:20:00
     serialNumber: AQD 5062
@@ -31,7 +31,7 @@ deployments:
     nCells: 40
     deltaT: 600.0
     elevation: -1.588
-  - id: 2017cea5606efb45
+  - id: 8e294f08f3308c5b
     startDate: 2016-07-08T12:00:00
     endDate: 2016-07-22T18:50:00
     serialNumber: AQD 5062
@@ -41,7 +41,7 @@ deployments:
     nCells: 40
     deltaT: 600
     elevation: -1.588
-  - id: e614cc9c4d63c4f4
+  - id: 785d4936778f203f
     startDate: 2016-09-05T11:00:00
     endDate: 2016-09-24T10:40:00
     serialNumber: AQD 6797
