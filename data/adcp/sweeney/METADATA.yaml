@@ -1,0 +1,60 @@
+---
+site-name: sweeney
+gps:
+  north: 941562.086
+  east: 253484.983
+  epsg: 26986
+cross-section:
+  file: cross-section.csv
+  epsg: 26986
+  Amax: 20.674
+  lmax: 13.944
+  hmax: 0.350
+deployments:
+  - id: a9d49aa8d9a60d01
+    startDate: 2015-07-08T12:00:00
+    endDate: 2015-08-19T10:00:00
+    serialNumber: AQD 5062
+    hasAnalog: false
+    blankingDistance: 0.1113778
+    cellSize: 0.1999389
+    nCells: 40
+    deltaT: 600.0
+    elevation: -1.588
+  - id: 2b5132d2e4cd6118
+    startDate: 2015-08-21T12:00:00
+    endDate: 2015-09-22T11:20:00
+    serialNumber: AQD 5062
+    hasAnalog: false
+    blankingDistance: 0.1113778
+    cellSize: 0.1999389
+    nCells: 40
+    deltaT: 600.0
+    elevation: -1.588
+  - id: 2017cea5606efb45
+    startDate: 2016-07-08T12:00:00
+    endDate: 2016-07-22T18:50:00
+    serialNumber: AQD 5062
+    hasAnalog: true
+    blankingDistance: 0.1113778
+    cellSize: 0.1999389
+    nCells: 40
+    deltaT: 600
+    elevation: -1.588
+  - id: e614cc9c4d63c4f4
+    startDate: 2016-09-05T11:00:00
+    endDate: 2016-09-24T10:40:00
+    serialNumber: AQD 6797
+    hasAnalog: true
+    blankingDistance: 0.1113778
+    cellSize: 0.1999389
+    nCells: 40
+    deltaT: 600
+    elevation: -1.588
+calibrations:
+  - id: 848a12419acddc65
+    startDate: 2016-09-22T07:10:00
+    endDate: 2016-09-22T16:20:00
+    deployment: e614cc9c4d63c4f4
+
+...
