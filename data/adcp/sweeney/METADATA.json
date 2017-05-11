@@ -12,6 +12,7 @@
         {
             "deltaT": 600.0,
             "hasAnalog": false,
+            "validAnalog": false,
             "serialNumber": "AQD 5062",
             "blankingDistance": 0.1113778,
             "startDate": "2015-07-08T12:00:00",
@@ -24,6 +25,7 @@
         {
             "deltaT": 600.0,
             "hasAnalog": false,
+            "validAnalog": false,
             "serialNumber": "AQD 5062",
             "blankingDistance": 0.1113778,
             "startDate": "2015-08-21T12:00:00",
@@ -36,6 +38,7 @@
         {
             "deltaT": 600,
             "hasAnalog": true,
+            "validAnalog": false,
             "serialNumber": "AQD 5062",
             "blankingDistance": 0.1113778,
             "startDate": "2016-07-08T12:00:00",
@@ -48,6 +51,7 @@
         {
             "deltaT": 600,
             "hasAnalog": true,
+            "validAnalog": false,
             "serialNumber": "AQD 6797",
             "blankingDistance": 0.1113778,
             "startDate": "2016-09-05T11:00:00",
