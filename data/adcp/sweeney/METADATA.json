@@ -38,6 +38,7 @@
         {
             "deltaT": 600,
             "hasAnalog": true,
+            "obsSerialNumber": "S8890",
             "validAnalog": false,
             "serialNumber": "AQD 5062",
             "blankingDistance": 0.1113778,
@@ -51,6 +52,7 @@
         {
             "deltaT": 600,
             "hasAnalog": true,
+            "obsSerialNumber": "T9007",
             "validAnalog": false,
             "serialNumber": "AQD 6797",
             "blankingDistance": 0.1113778,
