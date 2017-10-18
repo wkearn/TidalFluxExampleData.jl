@@ -4,7 +4,8 @@
             "startDate": "2016-09-22T07:10:00",
             "id": "acfb2947d11e0177",
             "endDate": "2016-09-22T16:20:00",
-            "deployment": "785d4936778f203f"
+            "deployment": "785d4936778f203f",
+            "quantities": ["discharge"]
         }
     ],
     "site-name": "sweeney",
