@@ -5,7 +5,10 @@
             "id": "acfb2947d11e0177",
             "endDate": "2016-09-22T16:20:00",
             "deployment": "785d4936778f203f",
-            "quantities": ["discharge","velocity"]
+            "quantities": [
+                "discharge",
+                "velocity"
+            ]
         }
     ],
     "site-name": "sweeney",
